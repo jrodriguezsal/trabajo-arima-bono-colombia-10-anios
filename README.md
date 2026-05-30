@@ -25,5 +25,4 @@ Abrir RStudio o VSCode desde la carpeta principal del proyecto y ejecutar:
 ```r
 source("codigo/serie_poster_econometria2_v3_bono_colombia_10_anios.R")
 
-```text
-Agregar README
+
